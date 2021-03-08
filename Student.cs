@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
 namespace CSharpOopsProject
 {
     public class Student : IPerson
