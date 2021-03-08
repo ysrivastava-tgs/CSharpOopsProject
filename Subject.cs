@@ -10,9 +10,9 @@ namespace CSharpOopsProject
         public Teacher Teacher;
         public override string GetInfo()
         {
-            {
+            
                 return $"Name: {Name}, Class And Section: {ClassAndSection}, Subject Code: {SubjectCode}";
-            }
+           
         }
     }
 }
