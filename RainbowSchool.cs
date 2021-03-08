@@ -16,7 +16,7 @@ namespace CSharpOopsProject
             students.Add(s1);students.Add(s2);students.Add(s3);
             Subject subj1 = new Subject() { Name = "Mrs Joolie", SubjectCode = " Phy-C001", ClassAndSection = "X B" };
             Subject subj2 = new Subject() { Name = "Mr Robot", SubjectCode = " Chem-C002", ClassAndSection = "XI B" };
-            Subject subj3 = new Subject() { Name = "Mr Ronit", SubjectCode = " Naths-C003", ClassAndSection = "XII B" };
+            Subject subj3 = new Subject() { Name = "Mr Ronit", SubjectCode = " Maths-C003", ClassAndSection = "XII B" };
             subjects.Add(subj1);subjects.Add(subj2);subjects.Add(subj3);
             Console.WriteLine("Displaying the following lists:");
             Console.WriteLine("=======Students in a class======");
